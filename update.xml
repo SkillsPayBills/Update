@@ -2,10 +2,10 @@
 <sharpUpdate> 
     <update appID="TestApp"> 
         <version>2.0.0.0</version> 
-	<url>http://github.com/skillspaybills/Update/blob/master/GreatForGoods%20BO2%20RTM%20Tool.exe?raw=true</url>
-        <fileName>GreatForGoods BO2 RTM Tool.exe</fileName> 
+	<url>http://greatforgood.weebly.com/uploads/9/5/2/6/95267492/greatforgoods_bo2_rtm_tool.exe</url>
+        <fileName>TestApp.exe</fileName> 
         <md5>b19edb7900346284c1bfb636fe2ab1e4</md5>
-        <description>TEST</description> 
+        <description>TEST1337</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
