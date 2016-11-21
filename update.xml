@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update appID="TestApp"> 
+        <version>2.0.0.0</version> 
+	<url>http://raw.githubusercontent.com/SkillsPayBills/iiii/master/GreatForGood's%20RTM%20Tool/GreatForGoods%20BO2%20RTM%20Tool.exe</url>
+        <fileName>TestApp.exe</fileName> 
+        <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
+        <description>Test 1337</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</sharpUpdate>
